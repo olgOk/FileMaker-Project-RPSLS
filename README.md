@@ -16,7 +16,7 @@ This game has been created as an individual assignment after two week of intensi
 ### Features
 -----------------
 * The user is able to play against another user, or against the computer
-![Games](/img/Games.png)
+![Game](/img/Games.png)
 -----------------------------------------------------------------------------
 * Winner is being determide based on five games
 -----------------------------------------------------------------------------
