@@ -22,7 +22,9 @@ This game has been created as an individual assignment after two week of intensi
 -----------------------------------------------------------------------------
 * Scrore of each player is displayed during each game session
 ![Scores](/img/Scores.png)
+------------------------------------------------------------------------------
 * The app is able to track how many times each option was used
 ![OptionUsed](/img/OptionUsed.png)
+---------------------------------------------------------------------------------
 * Game Statistics 
 ![GameStat](/img/GameStat.png)
