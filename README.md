@@ -7,6 +7,7 @@
 ### Contents
 * [About the Project](#About-the-Project)
 * [Features](#Features)
+* [Login Credentials](#Login-Credentials)
 
 
 ### About the Project
@@ -28,3 +29,9 @@ This game has been created as an individual assignment after two week of intensi
 ---------------------------------------------------------------------------------
 * Game Statistics 
 ![GameStat](/img/GameStat.png)
+
+### Login Credentials
+
+No password required for `Guest` account.
+
+For `admin` account, provide `admin` password. 
