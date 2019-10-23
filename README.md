@@ -38,3 +38,4 @@ No password required for `Guest` account.
 For `admin` account, provide `admin` password. 
 
 ### Assessment
+![Assess](https://github.com/olgOk/FileMaker-Project-RPSLS/blob/master/Volha%20Okrut_Indivicual%20Project%20Assessment.pdf)
