@@ -32,12 +32,13 @@ This game has been created as an individual assignment after two week of intensi
 ![GameStat](/img/GameStat.png)
 
 ### Login Credentials
-
+---------------------------------------------
 No password required for `Guest` account.
 
 For `admin` account, provide `admin` password. 
 
 ### Assessment
+--------------------------------------
 [See Assessment and Score][1]
 
 [1]: https://github.com/olgOk/FileMaker-Project-RPSLS/blob/master/Volha%20Okrut_Indivicual%20Project%20Assessment.pdf
